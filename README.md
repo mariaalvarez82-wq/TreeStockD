@@ -118,7 +118,7 @@ Esto garantiza que el recorrido **inorden** siempre devuelva los productos **en 
 
 ## 🎥 Video de Sustentación
 
-> > Video de sustentación pendiente de grabación
+> https://drive.google.com/file/d/1u9tmzEOSYXOZUQADXXRnjFSWhsJ2YJ-r/view?usp=sharing
 
 ---
 
