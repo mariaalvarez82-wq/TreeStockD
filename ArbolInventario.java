@@ -1,3 +1,4 @@
+// EA3 - Estructuras de Datos - IU Digital
 /**
  * Clase ArbolInventario - Contiene la lógica del Árbol Binario de Búsqueda.
  * Implementa los métodos: insertar (recursivo), recorrido inorden y buscar.
